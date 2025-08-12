@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello there! 👋
 
-<!--
-**mfcp20/mfcp20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently transitioning into tech through a **Full Stack Web Development** course.
+Before this, I graduated with a degree in Criminology and pursued postgraduate studies in Forensic Medicine.
+Now, I'm passionate about coding and eager to build a new career. 
 
-Here are some ideas to get you started:
+## 🚀 What I've learned so far
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a beginner in programming, I've explored:  
+- HTML, CSS, and JavaScript;  
+- SQL;
+- Algorithms;
+- C programming.
+
+I'm truly enjoying this new career path, and every day brings fresh challenges and opportunities to learn.
+
+## 🌿 A bit about me
+
+Outside of coding, I love:  
+- Plants and gardening 🌱  
+- Hosting friends and sharing good times 🎉  
+- Traveling and discovering new places ✈️  
+- Photography 📸  
+- Board games 🎲  
+
+I live in Porto, Portugal, and believe my diverse background and interests help me stay creative, empathetic, and open-minded in both tech and life.
+
+---
