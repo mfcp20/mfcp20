@@ -10,7 +10,7 @@ As a beginner in programming, I've explored:
 - HTML, CSS, and JavaScript;  
 - SQL;
 - Algorithms;
-- C programming.
+- C.
 
 I'm truly enjoying this new career path, and every day brings fresh challenges and opportunities to learn.
 
